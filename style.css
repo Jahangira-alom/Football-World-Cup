@@ -30,6 +30,10 @@ header section style
     width: 1405px;
     border-radius:35px;
     margin-top: 50px;
+    transition: 2s;
+}
+.heading:hover{
+    background-color: blueviolet;
 }
 /* -------------------
 heading-title style
@@ -56,6 +60,10 @@ heading-title style
     background-color: #DD0000; 
     padding: 15px 30px;
     border-radius: 10px;
+  transition: 1.5s;
+}
+.button:hover{
+    background-color: chartreuse;
 }
 .space{
     margin-left: 4px;
